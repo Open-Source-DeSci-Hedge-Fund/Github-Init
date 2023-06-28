@@ -1,5 +1,7 @@
 # Github-Init
 
+#### List of Sources: https://forum.numer.ai/t/free-or-cheap-data-and-tools-for-numerai-signals/350
+
 ## Free and OSS Resources
 
     
