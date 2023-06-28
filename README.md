@@ -9,6 +9,9 @@
    1. Github : https://github.com/ranaroussi/yfinance#quick-start
    2. Pulling Indian Stocks data : https://github.com/ranaroussi/yfinance/issues/825
 
+[x] Historical Financial data.
+    1. https://site.financialmodelingprep.com/developer/docs/#Company-Financial-Statements
+
 
 ## Paid api services that makes sense.
 1.https://marketstack.com/
